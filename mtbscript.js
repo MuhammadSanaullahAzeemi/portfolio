@@ -29,7 +29,7 @@ function openWhatsApp() {
 
   function downloadCV() {
 
-    const cvFilePath = "https://github.com/aliusa557/raw/main/Muhammad Sana ullah Azeemi.pdf";
+    const cvFilePath = "https://github.com/MuhammadSanaullahAzeemi/portfolio/blob/main/Muhammad%20Sana%20ullah%20Azeemi.pdf";
   
     
     const anchor = document.createElement("a");
